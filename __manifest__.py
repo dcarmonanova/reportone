@@ -6,6 +6,7 @@
     'category': 'Report',
     'version': '1.0.0',
     'depends': [
+        'sale',
     ],
     'data': [
         #'views/course.xml',
